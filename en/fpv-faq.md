@@ -26,4 +26,5 @@ Reply...
 
 ### How much does it weigh ?
 
-Reply...
+Different VTX and cameras will have different weights but below are the units that we know the weight:
+Runcam WiFi link with the camera: 31 grams
