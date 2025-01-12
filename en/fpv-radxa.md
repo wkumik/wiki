@@ -43,11 +43,7 @@ Each link directs you to the appropriate 3D model site, where you can access STL
 
 You can [setup the onboard wifi](https://github.com/OpenIPC/sbc-groundstations/blob/master/radxa_pi_zero_3w/headless_setup.md#setup-of-autoconnect-on-boot) for SSH connectivity. (udev rules and networkmanager are already configured in this image, you only need to execute the nmcli commands)
 
-Note: for RubyFPV you will either need a USB Network Dongle like the one below
-
- ![Picture](../images/fpv-radxa-usbc-lan.png)
-
-or access serial console, please check [here](https://wiki.radxa.com/Zero/dev/serial-console) on how to do that.
+Note: for RubyFPV you will need to flash the newest Ruby FPV using onto the SD card that will into your radxa. Use [Balena Etcher](https://etcher.balena.io/) to flash the image.
 
 ### DVR with FPV firmware
 
